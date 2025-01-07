@@ -8,7 +8,7 @@
 
 ![image-20250103140630593](./asset/image-20250103140630593.png)
 
-​     <img src="./asset/corruption.gif" alt="corruption" style="zoom: 45%;" /> 
+​      ![corruption](./asset/corruption.gif)
 
 ## Abstract
 
