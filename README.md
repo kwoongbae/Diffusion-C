@@ -6,10 +6,6 @@
 >
 > *Conference on Neural Information Processing Systems (**NeurIPS**), Workshop on Diffusion Models, 2023*
 
-![Poster-1](./asset/Poster-1.png)
-
-
-
 ![image-20250103140630593](./asset/image-20250103140630593.png)
 
 ​      ![corruption](./asset/corruption.gif)
@@ -28,3 +24,6 @@ In our contemporary academic inquiry, we present "Diffusion-C," a foundational m
 
 ![image-20250103140814702](./asset/image-20250103140814702.png)
 
+## Poster
+
+![Poster-1](./asset/Poster-1.png)
